@@ -3,3 +3,5 @@ Using Anaconda Reminders:
   Must activate conda environment prior to use
 
   `source activate tensorflow` in any dir
+
+
